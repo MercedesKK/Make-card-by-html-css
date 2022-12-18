@@ -1,2 +1,4 @@
-# html-css实现名片
-仅用于记录学习，不作商业用途
+# make card by html/css 
+Cards have the same effect as bilibili's personal cards
+
+[地址](https://space.bilibili.com/652084004)
